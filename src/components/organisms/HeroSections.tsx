@@ -1,5 +1,6 @@
 import Text from "../atoms/Text";
 import Title from "../atoms/Title";
+
 export default function HeroSections() {
   return (
     <div className="ds-bg p-7 flex justify-center flex-col items-center">
