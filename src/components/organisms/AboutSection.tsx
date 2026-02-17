@@ -1,8 +1,7 @@
-import React from "react";
 import Title from "../atoms/Title";
 import Text from "../atoms/Text";
 
-export const AboutSection = () => {
+export default function AboutSection() {
   return (
     <div className="ds-bg p-7 flex justify-center flex-col items-center">
       <Title>AboutSection</Title>
@@ -14,4 +13,4 @@ export const AboutSection = () => {
       </Text>
     </div>
   );
-};
+}
