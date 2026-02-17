@@ -1,3 +1,12 @@
+
+import HeroSection from "@/components/organisms/HeroSection";
+import Blog from "@/components/organisms/Blog";
+export default function page() {
+  return (
+    <div>
+      <HeroSection />
+  <Blog/>
+
 import HeroSections from "@/components/organisms/HeroSections";
 
 import ServiceSection from "@/components/organisms/ServiceSection";
@@ -10,6 +19,7 @@ export default function page() {
       <HeroSections />
       <ServiceSection/>
       <PricingSection />
+
     </div>
   );
 }
