@@ -1,4 +1,3 @@
-import TestimonialSection from "@/components/organisms/TestimonialSection";
 import AboutSection from "@/components/organisms/AboutSection";
 import HeroSections from "@/components/organisms/HeroSections";
 import CaltoSection from "@/components/organisms/CaltoSection";
@@ -13,8 +12,6 @@ import ContactsSection from "@/components/organisms/ContactsSection";
 export default function page() {
   return (
     <div>
-  <Blog/>
-
       <HeroSections />
       <ServiceSection/>
       <PricingSection />
