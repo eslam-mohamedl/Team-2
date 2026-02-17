@@ -1,9 +1,8 @@
-import HeroSection from "@/components/organisms/HeroSection";
+import HeroSections from "@/components/organisms/HeroSections";
 export default function page() {
   return (
     <div>
-      <HeroSection />
-  
+      <HeroSections />
     </div>
   );
 }
