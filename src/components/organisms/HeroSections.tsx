@@ -1,6 +1,8 @@
 
 import Text from "../atoms/Text";
 import Title from "../atoms/Title";
+import Text from "@/components/atoms/Text";
+import Title from "@/components/atoms/Title";
 
 export default function HeroSections() {
   return (
