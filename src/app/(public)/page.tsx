@@ -6,6 +6,7 @@ import Blog from "@/components/organisms/Blog";
 import ServiceSection from "@/components/organisms/ServiceSection";
 import PricingSection from "@/components/organisms/PricingSection";
 import ContactSection from "@/components/organisms/ContactSection";
+import TestimonialSection from "@/components/organisms/TestimonialSection";
 export default function page() {
   return (
     <div>
@@ -17,6 +18,7 @@ export default function page() {
       <PricingSection />
       <ContactSection />
       <Blog />
+      <TestimonialSection/>
     </div>
   );
 }
