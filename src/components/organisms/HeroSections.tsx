@@ -1,9 +1,9 @@
 import Text from "@/components/atoms/Text";
 import Title from "@/components/atoms/Title";
-export default function HeroSection() {
+export default function HeroSections() {
   return (
     <div className="ds-bg p-7 flex justify-center flex-col items-center">
-      <Title>HeroSection</Title>
+      <Title>HeroSections</Title>
       <Text size="md">
         This section represents the Hero Section of the website.
       </Text>
