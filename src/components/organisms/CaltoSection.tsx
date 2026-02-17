@@ -1,9 +1,10 @@
-import Text from "@/components/atoms/Text";
-import Title from "@/components/atoms/Title";
-export default function HeroSection() {
+import Text from "../atoms/Text";
+import Title from "../atoms/Title";
+
+export default function CaltoSection() {
   return (
     <div className="ds-bg p-7 flex justify-center flex-col items-center">
-      <Title>HeroSection</Title>
+      <Title>CaltoSection</Title>
       <Text size="md">
         This section represents the Hero Section of the website.
       </Text>
