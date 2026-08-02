@@ -7,9 +7,11 @@ import Blog from "@/components/Blog";
 import TeamSection from "@/components/TeamSection";
 import Questions from "@/components/Questions";
 import FAQsection from "@/components/FAQsection";
+import Navbar from "@/components/Navbar";
 export default function page() {
   return (
     <>
+      <Navbar />
       <Herosection />
       <Aboutsection />
       <Testimonial/>
