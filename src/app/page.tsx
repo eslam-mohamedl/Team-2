@@ -1,12 +1,17 @@
 import Herosection from "@/components/Herosection";
 import Aboutsection from "@/components/Aboutseciton";
-import TeamSection from "@/components/TeamSection";
+import Contact from "@/components/Contact";
+import Pricingsection from "@/components/Pricingsection";
+import Blog from "@/components/Blog";
+
 export default function page() {
   return (
     <>
       <Herosection />
       <Aboutsection />
-      <TeamSection />
+      <Contact />
+      <Pricingsection />
+      <Blog />
     </>
   );
 }
