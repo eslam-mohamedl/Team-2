@@ -6,9 +6,11 @@ import Pricingsection from "@/components/Pricingsection";
 import Blog from "@/components/Blog";
 import TeamSection from "@/components/TeamSection";
 import Questions from "@/components/Questions";
+import Navbar from "@/components/Navbar";
 export default function page() {
   return (
     <>
+    <Navbar />
       <Herosection />
       <Aboutsection />
       <Testimonial/>
