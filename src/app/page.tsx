@@ -5,6 +5,7 @@ import Contact from "@/components/Contact";
 import Pricingsection from "@/components/Pricingsection";
 import Blog from "@/components/Blog";
 import TeamSection from "@/components/TeamSection";
+import Questions from "@/components/Questions";
 export default function page() {
   return (
     <>
@@ -15,6 +16,7 @@ export default function page() {
       <Pricingsection />
       <Blog />
       <TeamSection />
+      <Questions/>
     </>
   );
 }
