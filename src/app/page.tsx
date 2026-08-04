@@ -13,6 +13,9 @@ import CallToActionSection from "@/components/CallToActionSection";
 import ServicesSection from "@/components/ServicesSection";
 import HeroSection2 from "@/components/HeroSection2";
 import { Navbar1 } from "@/components/Navbar1";
+=======
+import AboutSection2 from "@/components/AboutSection2";
+
 
 export default function page() {
   return (
@@ -32,6 +35,7 @@ export default function page() {
       <StatisticsSection/>
       <ServicesSection/>
       <HeroSection2/>
+      <AboutSection2/>
     </>
   );
 }
