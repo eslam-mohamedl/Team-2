@@ -10,6 +10,8 @@ import FAQsection from "@/components/FAQsection";
 import Navbar from "@/components/Navbar";
 import StatisticsSection from "@/components/StatisticsSection";
 import CallToActionSection from "@/components/CallToActionSection";
+import ServicesSection from "@/components/ServicesSection";
+
 export default function page() {
   return (
     <>
@@ -25,6 +27,7 @@ export default function page() {
       <Questions/>
       <FAQsection />
       <StatisticsSection/>
+      <ServicesSection/>
     </>
   );
 }
