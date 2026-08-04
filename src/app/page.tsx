@@ -8,8 +8,6 @@ import TeamSection from "@/components/TeamSection";
 import Questions from "@/components/Questions";
 import FAQsection from "@/components/FAQsection";
 import Navbar from "@/components/Navbar";
-import Answers from "@/components/Answers";
-import Gallery from "@/components/Gallery";
 export default function page() {
   return (
     <>
@@ -23,8 +21,6 @@ export default function page() {
       <TeamSection />
       <Questions/>
       <FAQsection />
-      <Answers/>
-      <Gallery/>
     </>
   );
 }
