@@ -12,11 +12,11 @@ import StatisticsSection from "@/components/StatisticsSection";
 import CallToActionSection from "@/components/CallToActionSection";
 import ServicesSection from "@/components/ServicesSection";
 import HeroSection2 from "@/components/HeroSection2";
-
+import Herosection1 from "@/components/Herosection1";
 export default function page() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar />
       <Herosection />
       <Aboutsection />
       <Testimonial/>
@@ -29,7 +29,8 @@ export default function page() {
       <FAQsection />
       <StatisticsSection/>
       <ServicesSection/>
-      <HeroSection2/>
+      <HeroSection2/> */}
+      <Herosection1/>
     </>
   );
 }
