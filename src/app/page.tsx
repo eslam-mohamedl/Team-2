@@ -13,6 +13,7 @@ import CallToActionSection from "@/components/CallToActionSection";
 import ServicesSection from "@/components/ServicesSection";
 import HeroSection2 from "@/components/HeroSection2";
 import AboutSection2 from "@/components/AboutSection2";
+import ServicesSection2 from "@/components/ServicesSection2";
 
 
 export default function page() {
@@ -33,6 +34,7 @@ export default function page() {
       <ServicesSection/>
       <HeroSection2/>
       <AboutSection2/>
+      <ServicesSection2/>
     </>
   );
 }
