@@ -1,4 +1,20 @@
+import About from "@/components/About";
+import Navbar from "@/components/Navbar";
+import Servicesection from "@/components/Servicesection";
+import Footer from "@/components/Footer";
+import FAQSection from "@/components/FAQSection";
+import HeroSection from "@/components/HeroSection";
+
 
 export default function page() {
-  return <div> home</div>;
+  return (
+    <div>
+      <Navbar />
+      <About />
+      <Servicesection />
+      <FAQSection />
+      <HeroSection />
+      <Footer />
+    </div>
+  );
 }
