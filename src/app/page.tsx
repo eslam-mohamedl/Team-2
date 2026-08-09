@@ -4,16 +4,17 @@ import Servicesection from "@/components/Servicesection";
 import Footer from "@/components/Footer";
 import FAQSection from "@/components/FAQSection";
 import HeroSection from "@/components/HeroSection";
+
+
 export default function page() {
-  return 
-  <div> 
-    <Navbar/>
-   <Servicesection/>
+  return (
+    <div>
       <Navbar />
       <About />
-      <Footer />
+      <Servicesection />
       <FAQSection />
       <HeroSection />
-  </div>;
-
+      <Footer />
+    </div>
+  );
 }
