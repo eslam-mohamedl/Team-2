@@ -1,5 +1,9 @@
 import React from "react";
-
+import Feature from "@/components/Feature";
 export default function page() {
-  return <div>about</div>;
+  return (
+    <div>
+      <Feature />
+    </div>
+  );
 }
