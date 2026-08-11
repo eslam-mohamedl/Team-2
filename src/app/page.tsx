@@ -9,12 +9,7 @@ import HeroSection from "@/components/HeroSection";
 export default function page() {
   return (
     <div>
-      <Navbar />
-      <About />
-      <Servicesection />
-      <FAQSection />
-      <HeroSection />
-      <Footer />
+   
     </div>
   );
 }
