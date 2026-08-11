@@ -1,5 +1,8 @@
+import Statistics from "@/components/Statistics";
 import React from "react";
 
 export default function page() {
-  return <div>about</div>;
+  return <div>
+    <Statistics />
+  </div>;
 }
