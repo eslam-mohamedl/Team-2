@@ -11,7 +11,6 @@ export default function page() {
     <div>
       <Hero />
       <AboutBox />
-     
     </div>
   );
 }
