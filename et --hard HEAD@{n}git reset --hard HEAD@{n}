@@ -1,0 +1,22 @@
+[33m63038e1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m HEAD@{0}: reset: moving to 63038e1
+[33m5b14895[m[33m ([m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33m5b14895[m[33m ([m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: pull origin develop: Fast-forward
+[33m0f3ac8a[m[33m ([m[1;31morigin/release/v2.0.3[m[33m)[m HEAD@{3}: pull origin develop: Fast-forward
+[33m8861aec[m HEAD@{4}: commit (merge): Merge branch 'develop' of https://github.com/eslam-mohamedl/Team-2 into develop
+[33m63038e1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m HEAD@{5}: checkout: moving from feature/gallery to develop
+[33mf18cc98[m[33m ([m[1;31morigin/feature/gallery[m[33m, [m[1;32mfeature/gallery[m[33m)[m HEAD@{6}: commit: fix: resolve merge conflicts in page.tsx
+[33m851828d[m HEAD@{7}: checkout: moving from feature/gallery to feature/gallery
+[33m851828d[m HEAD@{8}: commit (merge): fix: resolve deployment build error
+[33m63038e1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m HEAD@{9}: checkout: moving from develop to feature/gallery
+[33m63038e1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m HEAD@{10}: commit: feat: create gallery component
+[33m2599178[m HEAD@{11}: pull origin develop: Fast-forward
+[33m343bdcf[m HEAD@{12}: pull origin develop: Fast-forward
+[33m5eb2c5a[m[33m ([m[1;31morigin/release/v1.0.0[m[33m)[m HEAD@{13}: checkout: moving from hotfix/fix-payment-errors to develop
+[33mc61aa58[m[33m ([m[1;31morigin/hotfix/fix-payment-errors[m[33m, [m[1;32mmain[m[33m, [m[1;32mhotfix/fix-payment-errors[m[33m)[m HEAD@{14}: checkout: moving from main to hotfix/fix-payment-errors
+[33mc61aa58[m[33m ([m[1;31morigin/hotfix/fix-payment-errors[m[33m, [m[1;32mmain[m[33m, [m[1;32mhotfix/fix-payment-errors[m[33m)[m HEAD@{15}: checkout: moving from develop to main
+[33m5eb2c5a[m[33m ([m[1;31morigin/release/v1.0.0[m[33m)[m HEAD@{16}: pull origin develop: Fast-forward
+[33m450e140[m HEAD@{17}: checkout: moving from feature/faqsection to develop
+[33m3941c77[m[33m ([m[1;31morigin/feature/faqsection[m[33m, [m[1;32mfeature/faqsection[m[33m)[m HEAD@{18}: commit: feat: add faq section component with accordion interactivity
+[33m450e140[m HEAD@{19}: checkout: moving from develop to feature/faqsection
+[33m450e140[m HEAD@{20}: pull: Fast-forward
+[33ma3d2049[m HEAD@{21}: clone: from https://github.com/eslam-mohamedl/Team-2.git
