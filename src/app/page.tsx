@@ -6,11 +6,22 @@ import FAQSection from "@/components/FAQSection";
 import HeroSection from "@/components/HeroSection";
 import AboutBox from "@/components/AboutBox";
 import Hero from "@/components/Hero";
+import Gallery from "@/components/gallery";
+import Contect from "@/components/Contect";
+
 export default function page() {
   return (
     <div>
+      <Navbar />
       <Hero />
+      <HeroSection />
+      <About />
       <AboutBox />
+      <Servicesection />
+      <Gallery />
+      <FAQSection />
+      <Contect />
+      <Footer />
     </div>
   );
 }
