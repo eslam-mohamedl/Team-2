@@ -3,6 +3,7 @@ import Blog from "@/components/Blog";
 import Feature from "@/components/Feature";
 import Team from "@/components/Team";
 import Contect from "@/components/Contect";
+import Statistics from "@/components/Statistics";
 
 export default function page() {
   return (
@@ -12,6 +13,7 @@ export default function page() {
       <Feature />
       <Team />
       <Contect />
+      <Statistics />
     </>
   );
 }
