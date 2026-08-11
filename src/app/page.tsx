@@ -5,11 +5,11 @@ import Footer from "@/components/Footer";
 import FAQSection from "@/components/FAQSection";
 import HeroSection from "@/components/HeroSection";
 
-
+import Hero from "@/components/Hero";
 export default function page() {
   return (
     <div>
-   
+      <Hero />
     </div>
   );
 }
