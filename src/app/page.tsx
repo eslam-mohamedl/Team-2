@@ -7,6 +7,7 @@ import HeroSection from "@/components/HeroSection";
 import AboutBox from "@/components/AboutBox";
 import Hero from "@/components/Hero";
 import FAQSection1 from "@/components/FAQSection1";
+import Testmo from "@/components/Testmo";
 export default function page() {
   return (
     <div>
@@ -19,6 +20,7 @@ export default function page() {
       <FAQSection1 />
       <About />
       <Footer />
+      <Testmo/>
     </div>
   );
 }
